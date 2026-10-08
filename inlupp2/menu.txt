@@ -1,0 +1,15 @@
+What would you like to do?
+
+[A] Add merchandise
+[L] List merchandise
+[D] Remove merchandise 
+[E] Edit merchandise
+[S] Show stock
+[P] Replenish
+[C] Create cart
+[R] Remove cart
+[+] Add to cart
+[-] Remove from cart
+[=] Calculate cost
+[O] Check out
+[Q] Quit
